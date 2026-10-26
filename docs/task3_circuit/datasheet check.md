@@ -35,7 +35,4 @@ Therefore, I will connect the MDD10A according to its own pin arrangement rather
 
 *Conclusion*
 I chose the Cytron MDD10A because it has a higher current rating than the reference L298N-class driver and supports the voltage of the selected battery.
-
 Its control signals are also compatible with the ESP32. The main precautions are to connect the battery with the correct polarity and keep the motor current within the driver's limits.
-
-Reference: Cytron Technologies — MDD10A Rev2.0 datasheet and user manual.
