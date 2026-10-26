@@ -41,7 +41,7 @@ RoboReach — README
 
 ## Chosen Challenge
 
-Task 4: Challenge A — Stable Robot Chassis
+Task 4: Challenge B — Design a simple self-aligning gripper
 
 ### How to Open Files
 
