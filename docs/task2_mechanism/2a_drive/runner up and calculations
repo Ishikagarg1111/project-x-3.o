@@ -1,1 +1,24 @@
+## Runner Up : 
+TRACKS is runner up 
+although it is very stable and affordable but still it is best preffered at muddy,snow areas or uneven terrain.
 
+##Wheel Dimensions and 40 mm Step Clearance Check
+
+The selected drive configuration is 4-wheel skid-steer.
+Proposed dimensions:
+- Wheel diameter = 100 mm
+- Wheel radius = 50 mm
+- Wheelbase = 160 mm
+- Track width = 160 mm
+- Ground clearance = 50 mm
+
+Step clearance verification:
+Maximum speed-breaker height = 40 mm.
+Wheel radius = 100/2 = 50 mm.
+Since 50 mm > 40 mm, the wheel radius exceeds the obstacle height by 10 mm.
+The obstacle-height-to-wheel-radius ratio is:
+40/50 = 0.8
+
+Conclusion: A 100 mm wheel is selected because its radius is greater than the 40 mm speed-breaker height. 
+This provides more favourable obstacle-climbing geometry than smaller wheels. 
+A ground clearance of 50 mm helps prevent the chassis from contacting the speed breaker.
