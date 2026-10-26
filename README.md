@@ -36,6 +36,8 @@ RoboReach — README
 4. Cytron MDD10A motor driver datasheet
 5. ESP32 technical documentation
 6. Datasheets and supplier specifications of the selected motors, servos and battery
+7. Cytron Technologies — MDD10A Rev2.0 datasheet and user manual.(for task 3c)
+
 
 ## Chosen Challenge
 
