@@ -1,9 +1,9 @@
-## Runner up
+### Runner up
 *2 link revolute arm is runner up.*
 It is very convenient at all aspects but still it has more complex joint coordination.
 Also due to its lower stiffness and greater positioning errors, it is not precise.
 
-##Calculations
+### Calculations
 
 Selected mechanism: Linear lift with a short arm
 *Proposed Dimensions*
